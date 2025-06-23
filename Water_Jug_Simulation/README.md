@@ -5,7 +5,7 @@ A step-by-step simulation of the classic water jug problem, where the goal is to
 ## Demo Video
 
 [![Demo Thumbnail](./WaterJug_Thumbnail.png)](./Water_Jug_Simulation_Demo.mp4)  
-*Click the image to view the full demo video.*
+*Click the image to download the full demo video.*
 
 ## Features
 
