@@ -5,7 +5,7 @@ An AI-driven vacuum cleaner that navigates a grid, cleans dirt patches, and retu
 ## Demo Video
 
 [![Demo Thumbnail](./Vacuum_Thumbnail.png)](./Autonomous_Vacuum_Simulation_Demo.mp4)  
-*Click the image to view the full demo video.*
+*Click the image to download the full demo video.*
 
 ## Features
 
