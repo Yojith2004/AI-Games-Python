@@ -5,7 +5,7 @@ A grid-based simulation where a monkey must first acquire a table before collect
 ## Demo Video
 
 [![Demo Thumbnail](./Monkey_Thumbnail.png)](./Monkey_Banana_Simulation_Demo.mp4)  
-*Click the image to view the full demo video.*
+*Click the image to download the full demo video.*
 
 ## Features
 
