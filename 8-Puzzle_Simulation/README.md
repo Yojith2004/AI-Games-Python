@@ -5,7 +5,7 @@ A classic tile-based puzzle simulation where the goal is to arrange a 3x3 grid o
 ## Demo Video
 
 [![Demo Thumbnail](./8-Puzzle_Thumbnail.png)](./8-Puzzle_Simulation_Demo.mp4)  
-*Click the image to view the full demo video.*
+*Click the image to download the full demo video.*
 
 ## Features
 
